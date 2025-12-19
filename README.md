@@ -1,133 +1,166 @@
-Hackea tu Barrio
+# Hackea tu Barrio
+## Periodismo y tecnología para enfrentar la inseguridad digital desde lo local
 
-Hackea tu Barrio es un proyecto periodístico y tecnológico de interés público que documenta, analiza y comunica incidentes de inseguridad digital y desinformación con enfoque territorial, a nivel de barrios y localidades de Bogotá (y su área metropolitana).
+> Un proyecto de interés público que combina **periodismo**, **análisis tecnológico** y **datos territoriales** para prevenir fraudes digitales y desinformación en barrios y localidades.
 
-El proyecto combina investigación periodística, análisis de evidencias digitales, visualización de datos y el uso responsable de inteligencia artificial para traducir amenazas digitales complejas en información clara, útil y accionable para la ciudadanía.
+---
 
-🎯 Objetivo del proyecto
+## 📌 ¿Qué es Hackea tu Barrio?
 
-Fortalecer la conciencia crítica y la capacidad de autoprotección digital de las comunidades, visibilizando cómo operan fraudes, engaños y delitos digitales que afectan la vida cotidiana de personas y organizaciones a nivel local.
+**Hackea tu Barrio** es un proyecto periodístico y tecnológico que investiga, documenta y comunica incidentes de **inseguridad digital** con enfoque **territorial**, principalmente en barrios y localidades de Bogotá y su área metropolitana.
 
-🧭 Enfoque metodológico
+El proyecto traduce amenazas digitales complejas —fraudes, suplantaciones, estafas y campañas de desinformación— en información **clara**, **verificable** y **útil** para la ciudadanía.
 
-El proyecto se desarrolla a partir de una metodología híbrida que integra:
+---
 
-Monitoreo digital territorial (redes sociales, mensajería, buscadores y reportes ciudadanos).
+## 🎯 Propósito
 
-Análisis de evidencias verificables (capturas, enlaces, mensajes, documentos).
+Fortalecer la **cultura de seguridad digital** y la **prevención ciudadana**, visibilizando cómo operan los delitos digitales en contextos locales y proporcionando herramientas prácticas para identificarlos y enfrentarlos.
 
-Clasificación de incidentes por tipo de amenaza, plataforma, barrio y localidad.
+---
 
-Producción periodística con lenguaje claro y no técnico.
+## 🧭 Metodología de trabajo
 
-Estandarización editorial mediante plantillas, manuales y prompts.
+Hackea tu Barrio utiliza una metodología híbrida que integra periodismo, análisis técnico y sistematización de datos.
 
-Visualización y sistematización de datos en bases estructuradas (Excel, JSON).
+### 1. Monitoreo digital territorial
+- Redes sociales
+- Plataformas de mensajería
+- Motores de búsqueda
+- Marketplaces digitales
+- Reportes ciudadanos
 
-📊 Alcance e impacto (2025)
+### 2. Análisis y verificación
+- Capturas de pantalla
+- Enlaces, dominios y URLs
+- Mensajes, audios y documentos
+- Material audiovisual
+- Contraste de fuentes abiertas
 
-Barrios únicos cubiertos: 44
+### 3. Clasificación de incidentes
+- Tipo de amenaza
+- Plataforma utilizada
+- Barrio y localidad
+- Nivel de riesgo
 
-Localidades con registros: 18
+### 4. Producción editorial
+- Alertas de ciberseguridad
+- Noticias y reportajes
+- Contenidos pedagógicos
+- Piezas para redes sociales, audio y video
 
-Piezas publicadas: 101
+### 5. Automatización editorial
+- Plantillas HTML para WordPress
+- Prompts especializados
+- Manual de redacción
+- Diccionario de búsquedas avanzadas (Google Dorks)
 
-88 alertas de ciberseguridad
+### 6. Sistematización y visualización
+- Bases de datos en Excel y JSON
+- Indicadores territoriales
+- Mapas y tableros de seguimiento
 
-10 reportajes
+---
 
-3 noticias
+## 📊 Alcance e impacto
 
-Personas alcanzadas: más de 30.000
+**Cobertura territorial**
+- 🏘️ **44 barrios**
+- 🗺️ **18 localidades**
 
-🧩 Contenido del repositorio
+**Producción de contenidos**
+- 🧩 **101 publicaciones**
+  - 88 alertas de ciberseguridad
+  - 10 reportajes
+  - 3 noticias
 
-Este repositorio reúne los activos tecnológicos y editoriales del proyecto:
+**Audiencia**
+- 👥 **Más de 30.000 personas alcanzadas**
 
-/Codigo_Alerta_Periodista
-Plantillas y estructuras para alertas periodísticas de ciberseguridad.
+---
 
-/Prompt-*
-Prompts especializados para:
+## 📂 Contenido del repositorio
 
-alertas
+Este repositorio reúne los activos tecnológicos y editoriales del proyecto.
 
-noticias
+- `/Codigo_Alerta_Periodista`  
+  Plantillas editoriales para alertas de ciberseguridad en WordPress.
 
-redes sociales
+- `/Prompt-*`  
+  Prompts especializados para:
+  - Alertas
+  - Noticias
+  - Redes sociales
+  - Video y audio
+  - Mapas y visualizaciones
+  - Análisis de incidentes digitales
 
-video
+- `/Dashboard_mapas`  
+  Estructuras para visualización territorial de incidentes.
 
-audio
+- `/Extractor-home-Hackeatubarrio`  
+  Scripts para extracción y organización de contenidos.
 
-mapas
+- `/Mediakit`  
+  Material para sostenibilidad económica y alianzas.
 
-análisis de incidentes
+- Documentación editorial:
+  - Manual de redacción
+  - Diccionario de Google Dorks
+  - Guías de publicación y verificación
 
-/Dashboard_mapas
-Estructuras y lógica para visualización territorial de incidentes.
+---
 
-/Extractor-home-Hackeatubarrio
-Scripts y lógica para extracción y organización de contenidos.
+## 🛠️ Tecnologías utilizadas
 
-/Mediakit
-Material para la sostenibilidad y comercialización del proyecto.
+- HTML / CSS  
+- JSON y Excel  
+- WordPress (Gutenberg)  
+- GitHub  
+- Google Analytics 4  
 
-Documentación editorial:
+> [!NOTE]
+> Las herramientas de inteligencia artificial se utilizan **como apoyo editorial**, nunca como sustituto del criterio periodístico humano.
 
-Manual de redacción
+---
 
-Diccionario de búsquedas avanzadas (Google Dorks)
+## 🧠 Principios editoriales
 
-Guías de publicación
+- Lenguaje claro y accesible
+- Enfoque preventivo y pedagógico
+- Verificación de evidencias
+- Respeto por las víctimas
+- Transparencia metodológica
+- Enfoque comunitario
 
-🛠️ Tecnologías y formatos utilizados
+---
 
-HTML / CSS
+## 👥 Equipo
 
-JSON / Excel como base de datos
+**Hackea tu Barrio** es un proyecto de **MuchoHacker.lol**, medio independiente especializado en ciberseguridad y desinformación.
 
-GitHub como repositorio abierto
+**Dirección y edición**  
+**Camilo García**  
+Periodista y editor con más de 15 años de experiencia en comunicación digital e investigación periodística.
 
-WordPress (Gutenberg)
+**Producción periodística**  
+**Sebastián “Sebas” García**  
+Periodista especializado en ciberseguridad y fraudes digitales.
 
-Google Analytics 4
+---
 
-Herramientas de IA para apoyo editorial (no automatización ciega)
+## 📜 Licencia
 
-🧠 Principios editoriales
+Este proyecto se publica bajo **Licencia MIT**, lo que permite su uso, adaptación y redistribución, siempre reconociendo la autoría.
 
-Lenguaje claro y accesible (evitando jerga técnica innecesaria).
+---
 
-Enfoque preventivo y pedagógico.
+## 📬 Contacto
 
-Verificación de hechos y evidencias.
+- Sitio web: https://muchohacker.lol  
+- Correo: contacto@muchohacker.lol
 
-Respeto por las víctimas.
+---
 
-Transparencia metodológica.
-
-Interés público y enfoque comunitario.
-
-👥 Equipo y autoría
-
-Proyecto desarrollado por MuchoHacker.lol, un medio independiente especializado en ciberseguridad, desinformación y cultura digital.
-
-Dirección y edición:
-Camilo García – Periodista y editor, con más de 15 años de experiencia en comunicación digital, investigación y proyectos de interés público.
-
-Producción periodística:
-Sebastián “Sebas” García – Periodista especializado en ciberseguridad y fraudes digitales.
-
-🤝 Uso, colaboración y reutilización
-
-El código de este repositorio se publica bajo Licencia MIT, lo que permite su reutilización, adaptación y mejora.
-
-Para colaboraciones, alianzas institucionales o uso académico:
-📩 contacto@muchohacker.lol
-
-🌐 https://muchohacker.lol
-
-📌 Nota final
-
-Hackea tu Barrio no es solo un repositorio de código: es una infraestructura editorial y tecnológica para entender y enfrentar la inseguridad digital desde lo local.
+> Hackea tu Barrio no es solo código.  
+> Es una **infraestructura editorial y tecnológica** para enfrentar la inseguridad digital desde los territorios.
